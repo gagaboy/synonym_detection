@@ -124,7 +124,22 @@ undo
 
 同义词挖掘算法最新论文
 ========
+### DPE
+论文 https://dl.acm.org/doi/pdf/10.1145/3097983.3098185 </br>
+会议 KDD 17 </br>
+代码 https://github.com/mnqu/DPE </br>
+
 ### SynSetMine
-论文 [http://hanj.cs.illinois.edu/pdf/aaai19_jshen.pdf](http://hanj.cs.illinois.edu/pdf/aaai19_jshen.pdf)
-会议 AAAI 19
-代码 https://github.com/mickeystroller/SynSetMine-pytorch
+论文 [http://hanj.cs.illinois.edu/pdf/aaai19_jshen.pdf](http://hanj.cs.illinois.edu/pdf/aaai19_jshen.pdf) </br>
+会议 AAAI 19 </br>
+代码 https://github.com/mickeystroller/SynSetMine-pytorch </br>
+
+### SynSetExpan
+论文 https://arxiv.org/pdf/2009.13827.pdf </br>
+会议 EMNLP 20 </br>
+代码 无
+
+### SYNONYMNET
+论文 https://arxiv.org/pdf/1901.00056.pdf </br>
+会议 IJCAI 20 </br>
+代码 https://github.com/czhang99/SynonymNet
